@@ -36,6 +36,12 @@ header h2 {
     background-color: #901CAD;
 }
 
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
+
 /* My borders showing different div
 .col, div[class^="col-"], label[class^="col-"] {
     border: 1px solid red;
