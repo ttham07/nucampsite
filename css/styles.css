@@ -55,6 +55,13 @@ a, a:hover {
     border: solid #5637DD;
 }
 
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
+
 /* My borders showing different div
 .col, div[class^="col-"], label[class^="col-"] {
     border: 1px solid red;
